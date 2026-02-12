@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://reelcreator.network
+
+# Sitemaps
+Sitemap: https://reelcreator.network/sitemap.xml
