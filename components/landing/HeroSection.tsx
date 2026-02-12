@@ -101,7 +101,7 @@ export default function HeroSection() {
                             objectFit: 'contain',
                             position: 'relative',
                             zIndex: 1,
-                            dropShadow: '0 20px 40px rgba(0,0,0,0.1)'
+                            boxShadow: '0 20px 40px rgba(0,0,0,0.1)'
                         }}
                     />
                 </div>
